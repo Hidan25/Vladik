@@ -1,0 +1,16 @@
+variant 1
+
+number_1 = float(input('Enter your first number:'))
+number_2 = float(input ('Enter your second number:'))
+operation = input('operator +,-,*,/')
+if operation == '+':
+    print(number_1 + number_2)
+elif operation == '-':
+    print(number_1 - number_2)
+elif operation == '*':
+    print(number_1 * number_2)
+elif operation == '/':
+    print(number_1 / number_2)
+else:
+    print('Error,your invalid')    
+0 comments on commit 9035a94
