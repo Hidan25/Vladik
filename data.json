@@ -1,12 +1,1 @@
-{
-    "users": [
-        {
-            "login": "sanok",
-            "passowrd": "123"
-        },
-        {
-            "login": "ivan",
-            "passowrd": "123"
-        }
-    ]
-}
+{"users": [{"login": "sanok", "password": "123"}, {"login": "ivan", "password": "123"}, {"login": "123", "password": "123"}]}
